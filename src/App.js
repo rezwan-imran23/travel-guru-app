@@ -13,7 +13,6 @@ import {
 import Home from './Components/Home/Home';
 import NotMatch from './Components/NotMatch/NotMatch';
 import Stays from './Components/Stays/Stays';
-import Contact from './Components/Contact/Contact';
 import Navber from './Components/Navber/Navber';
 import Login from './Components/Login/Login';
 import CoxBazar from './Components/CoxBazar/CoxBazar';
@@ -61,9 +60,6 @@ function App() {
           <Stays></Stays>
         </PrivateRoute>
 
-        <Route path="/contact">
-          <Contact/>
-        </Route>
 
         <Route path="/create">
           <CreatAccount/>
