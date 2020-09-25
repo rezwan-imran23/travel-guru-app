@@ -1,0 +1,45 @@
+
+.btn{
+    background-color: orange;
+    border-style: none;
+    color: black;
+    font-weight: 600;
+}
+
+.createAcc{
+    text-align: center;
+    font-size: smaller;
+    font-weight: 600;
+    margin-top: 20px;
+    
+}
+.underLineBorder{
+    border-bottom: 1px solid black;
+    width: 180px;
+    
+    
+}
+
+.text{
+    text-align: center;
+    margin: -8px 10px ;
+}
+
+.socialIcon{
+    display: flex;
+    border: 1px solid gray;
+    margin-top: 25px;
+    padding: 6px;
+    border-radius: 30px;
+    
+}
+.socialIcon img{
+    width: 30px;
+    height: 30px;
+    margin-right: 25px;
+}
+
+.socialIcon h5{
+    font-size: 15px;
+    margin: 6px 0px 0px 25px;
+}

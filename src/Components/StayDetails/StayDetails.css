@@ -1,0 +1,15 @@
+.hotelDetails{
+    display: flex;
+    margin-bottom:30px;
+    
+
+}
+
+.hotelDetails img{
+    margin-right: 25px;
+    border-radius: 6px;
+}
+
+.hotelDetails small{
+    color: gray;
+}

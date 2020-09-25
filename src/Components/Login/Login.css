@@ -1,0 +1,75 @@
+
+.btn{
+    background-color: orange;
+    border-style: none;
+    color: black;
+    font-weight: 600;
+}
+
+.makeAcc{
+    text-align: center;
+    font-size: smaller;
+    font-weight: 600;
+}
+.underLineBorder{
+    border-bottom: 1px solid black;
+    width: 180px;
+    
+    
+}
+
+.text{
+    text-align: center;
+    margin: -8px 10px ;
+}
+
+.faceBookSign{
+    display: flex;
+    border: 1px solid gray;
+    margin-top: 20px;
+    padding: 6px;
+    border-radius: 30px;
+}
+
+.faceBookSign img{
+    width: 30px;
+    height: 30px;
+    margin-right: 25px;
+}
+
+.faceBookSign h5{
+    font-size: 15px;
+    margin:  0px 0px 0px 25px;
+}
+
+.faceBookSign button{
+    border-style: none;
+    background-color: white;
+}
+
+
+
+.googleSign{
+    display: flex;
+    border: 1px solid gray;
+    margin-top: 20px;
+    padding: 6px;
+    border-radius: 30px;
+    
+}
+
+.googleSign img{
+    width: 30px;
+    height: 30px;
+    margin-right: 25px;
+}
+
+.googleSign h5{
+    font-size: 15px;
+    margin:  0px 0px 0px 34px;
+}
+
+.googleSign button{
+    border-style: none;
+    background-color: white;
+}
